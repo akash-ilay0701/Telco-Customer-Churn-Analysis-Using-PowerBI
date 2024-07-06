@@ -1,9 +1,4 @@
 # Telco-Customer-Churn-Analysis-Using-PowerBI
-Dashboard:
-
-![Dashboard](https://github.com/akash-ilay0701/Telco-Customer-Churn-Analysis-Using-PowerBI/assets/119600546/20951bc9-d175-4262-aa26-7f7064c48925)
-
-
 Project Overview:
 
 The project involved analysis of customer churn data by creating a dashboard to track and analyze customer attrition within defined timeframe.
@@ -17,6 +12,10 @@ Project Goals:
 3. Presenting insights using data visualization tools.
 
 4. Formulating suggestions to empower decision-makers in addressing customer churn effectively.
+
+Dashboard:
+
+![Dashboard](https://github.com/akash-ilay0701/Telco-Customer-Churn-Analysis-Using-PowerBI/assets/119600546/20951bc9-d175-4262-aa26-7f7064c48925)
 
 
 Key Insights:
